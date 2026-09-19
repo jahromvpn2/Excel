@@ -1,0 +1,8 @@
+{
+  "name": "Remix برنامه اکسل هوشمند | Smart Excel",
+  "description": "نرم‌افزار جامع صفحه گسترده اکسل با نوار ریبون کامل، پشتیبانی از فرمول‌های پیشرفته، نمودارها، چند کاربرگ و دستیار هوش مصنوعی جمینای",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
